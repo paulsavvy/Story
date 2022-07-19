@@ -1,1 +1,3 @@
 This is chapter 2 in git 
+
+some modifications done for branching and merging
